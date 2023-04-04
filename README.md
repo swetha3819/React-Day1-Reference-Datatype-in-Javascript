@@ -1,1 +1,1 @@
-# React-Day2-Reference-Datatype-in-Javascript
+# React-Day1-Reference-Datatype-in-Javascript
